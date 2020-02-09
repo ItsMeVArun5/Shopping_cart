@@ -18,7 +18,7 @@
 
 	<header>
 		<h1>
-			Tiazon
+            SmartShop
 		</h1>
 		<nav>
 			<ul>
@@ -89,8 +89,8 @@
 	</div>
 
 	<footer style="margin-top: 40px;">
-		<div class="footer"> &copy; 2018 	:
-	      <a href="Controller?page=index"> Tiazon.com</a>
+		<div class="footer"> &copy; 2020 copyright:
+	      <a href="Controller?page=index"> SmartShop.com</a>
 	    </div>
 	</footer>
 

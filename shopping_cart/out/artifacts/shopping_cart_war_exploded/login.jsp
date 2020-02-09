@@ -17,7 +17,7 @@
 
 <header>
 		<h1>
-			Tiazon
+			SmartShop
 		</h1>
 		<nav>
 			<ul>
@@ -38,7 +38,7 @@
 	</header>
 
 	<div class="signup-header">
-	 	<h2>Login to <mark>Tiazon</mark></h2>
+	 	<h2>Login to <mark>SmartShop</mark></h2>
 	</div>
 
 	 <form method="post" action="Controller">
@@ -60,13 +60,13 @@
 	 		<button type="submit" name="login" class="signup-btn">Log in</button>
 	 	</div>
 	 	<p>
-	 		New to Tiazon? <a href="Controller?page=sign-up" style="color:#F24638;">Create Account</a>
+	 		New to SmartShop? <a href="Controller?page=sign-up" style="color:#F24638;">Create Account</a>
 	 	</p>
 	 </form>
 	<br><br><br>
 	<footer style="position: fixed;bottom: 0;left: 0;width: 100%;">
-		<div class="footer"> &copy; 2018 Copyright:
-	      <a href="Controller?page=index"> Tiazon.com</a>
+		<div class="footer"> &copy; 2020 Copyright:
+	      <a href="Controller?page=index"> SmartShop.com</a>
 	    </div>
 	</footer>
 

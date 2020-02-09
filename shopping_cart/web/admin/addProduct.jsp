@@ -60,8 +60,8 @@
 	 </form>
 	
 	 <footer style="position: absolute;left: 0;bottom: 0;width: 100%;">
-		<div class="footer"> &copy; 2018 Copyright:
-	      Tiazon.com
+		<div class="footer"> &copy; 2020 Copyright:
+			SmartShop.com
 	    </div>
 	</footer>
 </body>

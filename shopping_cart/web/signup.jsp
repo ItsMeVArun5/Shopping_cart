@@ -17,7 +17,7 @@
 
 <header>
 		<h1>
-			Tiazon
+			SmartShop
 		</h1>
 		<nav>
 			<ul>
@@ -38,7 +38,7 @@
 	</header>
 	
 	<div class="signup-header">
-	 	<h2>Signup with Tiazon</h2>
+	 	<h2>Signup with SmartShop</h2>
 	 </div>
 
 	 <form method="post" action="Controller">
@@ -84,8 +84,8 @@
 	 </form>
 	<br><br><br>
 	<footer>
-		<div class="footer"> &copy; 2018 Copyright:
-	      <a href="Controller?page=index"> Tiazon.com</a>
+		<div class="footer"> &copy; 2020 Copyright:
+	      <a href="Controller?page=index"> SmartShop.com</a>
 	    </div>
 	</footer>
 

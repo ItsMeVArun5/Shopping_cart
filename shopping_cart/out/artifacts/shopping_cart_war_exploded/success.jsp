@@ -21,7 +21,7 @@
 	
 	<header>
 		<h1>
-			Tiazon
+			SmartShop
 		</h1>
 		<nav>
 			<ul>
@@ -75,8 +75,8 @@
 	</c:choose>
 
 	<footer style="position: fixed;bottom: 0;left: 0;width: 100%;">
-		<div class="footer"> &copy; 2018 Copyright:
-	      <a href="Controller?page=index"> Tiazon.com</a>
+		<div class="footer"> &copy; 2020 Copyright:
+	      <a href="Controller?page=index"> SmartShop.com</a>
 	    </div>
 	</footer>
 </body>

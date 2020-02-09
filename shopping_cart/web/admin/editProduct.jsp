@@ -61,8 +61,8 @@
 	 </form>
 	
 	 <footer>
-		<div class="footer"> &copy; 2018 Copyright:
-	      Tiazon.com
+		<div class="footer"> &copy; 2020 Copyright:
+			SmartShop.com
 	    </div>
 	</footer>
 </body>
